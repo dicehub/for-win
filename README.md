@@ -1,4 +1,4 @@
-## DICE for Linux
+## DICE for Windows
 
 ### This Repository
 
